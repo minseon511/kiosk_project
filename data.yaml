@@ -1,0 +1,9 @@
+#"C:\Users\User\Desktop\test_merge4m\data.yaml"
+#data.yaml
+
+train: C:/Users/User/Desktop/test_merge4m/train/images
+val: C:/Users/User/Desktop/test_merge4m/valid/images
+test: C:/Users/User/Desktop/test_merge4m/test/images
+
+nc:  5
+names: ['cleanbag','downy','soybean paste','pepper','homestar']
